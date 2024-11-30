@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>About me 🙍‍♂️ on rednelt&#39;s portfolio</title>
+    <title>👨‍💻 Projects on rednelt&#39;s portfolio</title>
     <link>http://localhost:1313/projects/</link>
-    <description>Recent content in About me 🙍‍♂️ on rednelt&#39;s portfolio</description>
+    <description>Recent content in 👨‍💻 Projects on rednelt&#39;s portfolio</description>
     <image>
       <title>rednelt&#39;s portfolio</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,7 +11,34 @@
     </image>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>time-on-fire ⌚</title>
+      <link>http://localhost:1313/projects/time-on-fire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/time-on-fire/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;logo&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/tof.png&#34; title=&#34;Logo&#34;&gt;
+&lt;a href=&#34;https://github.com/rednelt/time-on-fire&#34;&gt;https://github.com/rednelt/time-on-fire&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A simple screen time tracker written in Python for Windows 10.&lt;/p&gt;
+&lt;h3 id=&#34;why-there-are-trackers-for-windows-already&#34;&gt;Why? There are trackers for Windows already.&lt;/h3&gt;
+&lt;p&gt;I didn&#39;t find a &lt;strong&gt;simple&lt;/strong&gt; screen time tracker for Windows. A lot of them are for teams/are paid/have a lot of features that I didn&#39;t need (like tracking time spent on projects, graphs, analytics, goals, grouping activities and so forth). Most of the time I just needed to check what I was doing today, or to see the average screen time of my apps this week. For these simple tasks, &lt;code&gt;time-on-fire&lt;/code&gt; is much better suited, allowing me to do them in a single keystroke: &lt;code&gt;tof report&lt;/code&gt; and &lt;code&gt;tof report 2022-07-10:2022-07-16 -m avg&lt;/code&gt; respectively. It&#39;s deliberately crude and simple, containing only 3 commands (only one of which takes an argument and an option). If you want a GUI and more advanced features, check out &lt;a href=&#34;https://activitywatch.net/&#34; title=&#34;ActivityWatch&#34;&gt;ActivityWatch&lt;/a&gt;. It&#39;s crossplatform, free and open source.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>aliengen 👾</title>
+      <link>http://localhost:1313/projects/aliengen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/aliengen/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;aliens&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/aliens.jpg&#34; title=&#34;Aliens&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/rednelt/aliengen&#34;&gt;https://github.com/rednelt/aliengen&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Generates low-res pixel art aliens (totally not random blobs of pixels), big and small, bland and colorful, common and exotic. Requires Pillow. How to use: run generator.py, the image will be saved as alien.png. The stats of your alien (rarity name, size, pixel probability, color deviation) will be printed in the console. config.py contains a list of rarities, from Common to Lovecraftian Abomination. Each rarity has it&amp;rsquo;s own stats (a range of values for each characteristic, to make images more random). If you want to generate some high-rarity images, comment out the low rarities from config.py. Have fun.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>portfolio 💼</title>
+      <link>http://localhost:1313/projects/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/portfolio/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/rednelt/portfolio&#34;&gt;https://github.com/rednelt/portfolio&lt;/a&gt;
+My portfolio (this website), made with Hugo and Papermod.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
