@@ -9,6 +9,6 @@ I shoot on three devices:
 - Canon EOS 60D, DSLR
 - Google Pixel 6a, phone
 
-You can buy my photos on Artgrab.
+You can buy my photos on [Artgrab](https://artgrab.com).
 
 {{< gallery match="images/*" sortOrder="asc" rowHeight="200" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true  embedPreview=false loadJQuery=true >}}
