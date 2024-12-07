@@ -1,4 +1,4 @@
-baseURL: "https://rednelt.com/"
+
 title: rednelt's portfolio
 paginate: 5
 theme: ["PaperMod", "hugo-shortcode-gallery"]
