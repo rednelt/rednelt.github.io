@@ -1,4 +1,5 @@
 canonifyUrls: true
+baseUrl: "https://rednelt.github.io/portfolio/"
 title: rednelt's portfolio
 paginate: 5
 theme: ["PaperMod", "hugo-shortcode-gallery"]
