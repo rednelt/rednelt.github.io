@@ -1,4 +1,3 @@
-baseUrl: "https://rednelt.github.io/portfolio/"
 title: rednelt's portfolio
 paginate: 5
 theme: ["PaperMod", "hugo-shortcode-gallery"]
@@ -30,7 +29,7 @@ params:
   ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: false
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowWordCount: false
   ShowRssButtonInSectionTermList: false
   UseHugoToc: true
