@@ -11,4 +11,8 @@ I shoot on three devices:
 
 You can buy my photos on [Artgrab](https://artgrab.com).
 
-{{< gallery match="images/*" sortOrder="asc" rowHeight="200" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true  embedPreview=false loadJQuery=true >}}
+### Canon EOS 60D:
+{{< gallery match="images_DSLR/*" sortOrder="desc" rowHeight="250" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true  embedPreview=false loadJQuery=true >}}
+
+### Samsung PL60:
+{{< gallery match="images_retro/*" sortOrder="asc" rowHeight="250" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true  embedPreview=false loadJQuery=true >}}
